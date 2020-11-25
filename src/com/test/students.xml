@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student id="stu001">张三</student>
+	<student id="stu002">李四</student>
+	<student id="stu003">李大嘴</student>
+	<student id="stu004">赵六</student>
+	<student id="stu005">铁拐李</student>
+</students>
